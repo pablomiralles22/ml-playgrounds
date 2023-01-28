@@ -1,5 +1,6 @@
 .DS_Store
 *.csv
+*.csv.gz
 *.zip
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
